@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **nileshdubey060@gmail.com**
 - 👨‍💻 All of my projects are available at **portfolio.com**
-- 📄 Know about my experiences **[See resume.pdf](https://drive.google.com/file/d/12fGSDmLySCZybdqJ3IwbrxjzLE1Z5rUs/view?usp=sharing)**
+- 📄 Know about my experiences **[See resume.pdf](https://drive.google.com/file/d/1DMe_DrABA8hSWKEkmOMpqJbeJBxEfQUO/view)**
 - ⚡ Fun fact **I think I am Funny With my Develpment**
 
 <div> <a href="https://github.com/nileshdubey82" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
